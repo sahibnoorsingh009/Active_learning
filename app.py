@@ -1,5 +1,5 @@
 # active_learning_app.py
-!pip install streamlit scikit-learn numpy pandas
+pip install streamlit scikit-learn numpy pandas
 import streamlit as st
 import numpy as np
 import pandas as pd
