@@ -9,7 +9,7 @@ Interactive Streamlit applications demonstrating active learning strategies on t
 - Visualizes accuracy vs. number of labeled samples
 - Interactive labeling interface
 
-![Basic Demo Screenshot](screenshots/basic_demo.png)
+
 
 ### 2. Robust Strategy Comparison (`app1.py`)
 - Compares 4 active learning strategies:
@@ -20,11 +20,5 @@ Interactive Streamlit applications demonstrating active learning strategies on t
 - Tracks performance across strategies
 - Interactive experiment control
 
-![Comparison Demo Screenshot](screenshots/comparison_demo.png)
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/active-learning-demos.git
-cd active-learning-demos
